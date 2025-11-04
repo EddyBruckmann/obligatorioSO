@@ -96,13 +96,13 @@ venderProducto(){
     read -r -p "ingrese el numero del producto a vender: " num
     linea=$(sed -n "${num}p" productos.txt)
     total=$(awk '{print $9}' <<<"$linea")
-    echo $total
     cod=$(awk '{print $1}' <<<"$linea")
     read -r -p "ingrese la cantidad a vender: " cant
 
     if (( cant <= total )); then
         total=$(( total - cant ))
-        sed -i -E "s/^(${cod})([[:space:]]+[^[:space:]]+){7}([[:space:]]+)[^[:space:]]+/\1\2\3${total}/" productos.txt
+        sed -E "s/^(([^[:space:]]+[[:space:]]+){8})([^[:space:]]+)/\1${total}/" productos.txt
+
     else 
         echo "no podes superar la cantidad actual"
     fi
