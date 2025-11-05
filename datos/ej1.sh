@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 menuLogueado() {
+    echo ""
 	echo "1) crear usuario"
 	echo "2) cambiar contraseña"
 	echo "3) logout"
@@ -9,16 +10,20 @@ menuLogueado() {
 	echo "6) filtro de producto"
 	echo "7) crear reporte de pintura"
 	echo "8) salir"
+    echo ""
 }
 
 menuSinLog() {
+    echo ""
 	echo "1) crear usuario"
 	echo "2) cambiar contraseña"
 	echo "3) login"
 	echo "4) salir"
+    echo ""
 }
 
 crearUsuario(){
+    clear
     read -r -p "ingrese nombre: " usuario
     grep -Eq "^${usuario}[[:space:]]*:[[:space:]]*[^[:space:]]*$" usuarios.txt 2>/dev/null && 
         echo "El usuario ya existe." && return
@@ -37,6 +42,7 @@ crearUsuario(){
 }
 
 cambiarContraseña(){
+    clear
     read -r -p "ingrese nombre: " usuario
     if grep -Eq "^[[:space:]]*${usuario}[[:space:]]*:[[:space:]]*.*$" usuarios.txt 2>/dev/null; then
 	    while true; do
@@ -79,6 +85,7 @@ logout(){
 }
 
 ingresarProducto(){
+    clear
     read -r -p "ingrese el tipo de producto: " tipo
     codigo="$(echo "$tipo" | cut -c1-3 | tr '[:lower:]' '[:upper:]')"
     read -r -p "ingrese el modelo: " modelo
@@ -90,23 +97,50 @@ ingresarProducto(){
 }
 
 venderProducto(){
+    clear
     cantLineas=$(wc -l productos.txt)
 
     nl -w2 -s ". " productos.txt
-    read -r -p "ingrese el numero del producto a vender: " num
-    linea=$(sed -n "${num}p" productos.txt)
-    total=$(awk '{print $9}' <<<"$linea")
-    cod=$(awk '{print $1}' <<<"$linea")
-    read -r -p "ingrese la cantidad a vender: " cant
+    read -r -p "ingrese los numeros de los productos a vender separados por guión: " nums
+    for n in $(echo "$nums" | tr '-' ' '); do
+        linea=$(sed -n "${n}p" productos.txt)
+        total=$(echo "$linea" | awk '{print $9}')
+        cod=$(echo "$linea" | awk '{print $1}')
+        read -r -p "ingrese la cantidad de {$cod} vender: " cant
 
-    if (( cant <= total )); then
-        total=$(( total - cant ))
-        sed -E "s/^(([^[:space:]]+[[:space:]]+){8})([^[:space:]]+)/\1${total}/" productos.txt
+        if (( cant <= total )); then
+            total=$(( total - cant ))
+            sed -E -i "${n}s/^(([^[:space:]]+[[:space:]]+){8})([^[:space:]]+)/\1${total}/" productos.txt
 
-    else 
-        echo "no podes superar la cantidad actual"
+        else 
+            echo "no podes superar la cantidad actual"
+        fi
+done
+
+}
+
+flitrarProducto(){
+    clear
+    read -r -p "Ingrese el tipo de producto " tipo
+
+    if ! [[ -z $tipo ]]; then
+        resultado=$(cat productos.txt | grep -i "$tipo")
+
+        if [[ -z $resultado ]]; then
+            echo "No se encotraron productos"
+        else
+            echo "productos encontrados:"
+            echo "${resultado}"
+            echo ""
+        fi
+    else
+        cat productos.txt
     fi
-    
+}
+
+crearReporte(){
+    echo "Código,Tipo,Modelo,Descripción,Cantidad,Precio" > datos.csv
+    cat productos.txt |tr -d ' ' | tr '-' ',' >> datos.csv
 }
 
 log=0
@@ -125,8 +159,8 @@ while true; do
             3) logout ;;
             4) ingresarProducto ;;
             5) venderProducto ;;
-            6) echo "" ;;
-            7) echo "" ;;
+            6) flitrarProducto ;; 
+            7) crearReporte ;;
             8) echo "Saliendo..."; exit 0 ;;
             *) echo "Opción inválida" ;;
         esac
