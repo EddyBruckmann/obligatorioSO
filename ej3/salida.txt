@@ -1,0 +1,500 @@
+Vaca  100 se está ordeñando
+Vaca  1 se está ordeñando
+Vaca  3 entra al vacunatorio
+Vaca  2 se está ordeñando
+Vaca  4 entra al vacunatorio
+Vaca  5 se está ordeñando
+Vaca  6 se está ordeñando
+Vaca  9 entra al vacunatorio
+Vaca  7 entra al vacunatorio
+Vaca  8 se está ordeñando
+Vaca  10 entra al vacunatorio
+Vaca  11 se está ordeñando
+Vaca  14 se está ordeñando
+Vaca  16 se está ordeñando
+Vaca  17 se está ordeñando
+Vaca  18 se está ordeñando
+Vaca  19 se está ordeñando
+Vaca  21 se está ordeñando
+Vaca  22 se está ordeñando
+Vaca  23 se está ordeñando
+Vaca  4 sale del vacunatorio
+Vaca  12 entra al vacunatorio
+Vaca  23 termió de ordeñarse
+Vaca  25 se está ordeñando
+Vaca  22 termió de ordeñarse
+Vaca  27 se está ordeñando
+Vaca  25 termió de ordeñarse
+Vaca  29 se está ordeñando
+Vaca  7 sale del vacunatorio
+Vaca  13 entra al vacunatorio
+Vaca  6 termió de ordeñarse
+Vaca  26 se está ordeñando
+Vaca  14 termió de ordeñarse
+Vaca  30 se está ordeñando
+Vaca  12 sale del vacunatorio
+Vaca  15 entra al vacunatorio
+Vaca  100 termió de ordeñarse
+Vaca  31 se está ordeñando
+Vaca  11 termió de ordeñarse
+Vaca  34 se está ordeñando
+Vaca  16 termió de ordeñarse
+Vaca  40 se está ordeñando
+Vaca  15 sale del vacunatorio
+Vaca  20 entra al vacunatorio
+Vaca  13 sale del vacunatorio
+Vaca  24 entra al vacunatorio
+Vaca  3 sale del vacunatorio
+Vaca  28 entra al vacunatorio
+Vaca  9 sale del vacunatorio
+Vaca  32 entra al vacunatorio
+Vaca  2 termió de ordeñarse
+Vaca  42 se está ordeñando
+Vaca  32 sale del vacunatorio
+Vaca  33 entra al vacunatorio
+Vaca  18 termió de ordeñarse
+Vaca  44 se está ordeñando
+Vaca  10 sale del vacunatorio
+Vaca  35 entra al vacunatorio
+Vaca  31 termió de ordeñarse
+Vaca  45 se está ordeñando
+Vaca  17 termió de ordeñarse
+Vaca  46 se está ordeñando
+Vaca  21 termió de ordeñarse
+Vaca  36 se está ordeñando
+Vaca  26 termió de ordeñarse
+Vaca  47 se está ordeñando
+Vaca  1 termió de ordeñarse
+Vaca  43 se está ordeñando
+Vaca  5 termió de ordeñarse
+Vaca  48 se está ordeñando
+Vaca  20 sale del vacunatorio
+Vaca  37 entra al vacunatorio
+Vaca  27 termió de ordeñarse
+Vaca  38 se está ordeñando
+Vaca  29 termió de ordeñarse
+Vaca  50 se está ordeñando
+Vaca  48 termió de ordeñarse
+Vaca  53 se está ordeñando
+Vaca  50 termió de ordeñarse
+Vaca  54 se está ordeñando
+Vaca  8 termió de ordeñarse
+Vaca  57 se está ordeñando
+Vaca  38 termió de ordeñarse
+Vaca  58 se está ordeñando
+Vaca  19 termió de ordeñarse
+Vaca  55 se está ordeñando
+Vaca  28 sale del vacunatorio
+Vaca  39 entra al vacunatorio
+Vaca  24 sale del vacunatorio
+Vaca  41 entra al vacunatorio
+Vaca  30 termió de ordeñarse
+Vaca  59 se está ordeñando
+Vaca  44 termió de ordeñarse
+Vaca  62 se está ordeñando
+Vaca  58 termió de ordeñarse
+Vaca  65 se está ordeñando
+Vaca  35 sale del vacunatorio
+Vaca  49 entra al vacunatorio
+Vaca  43 termió de ordeñarse
+Vaca  67 se está ordeñando
+Vaca  41 sale del vacunatorio
+Vaca  51 entra al vacunatorio
+Vaca  33 sale del vacunatorio
+Vaca  52 entra al vacunatorio
+Vaca  52 sale del vacunatorio
+Vaca  56 entra al vacunatorio
+Vaca  34 termió de ordeñarse
+Vaca  69 se está ordeñando
+Vaca  51 sale del vacunatorio
+Vaca  61 entra al vacunatorio
+Vaca  40 termió de ordeñarse
+Vaca  71 se está ordeñando
+Vaca  69 termió de ordeñarse
+Vaca  70 se está ordeñando
+Vaca  56 sale del vacunatorio
+Vaca  63 entra al vacunatorio
+Vaca  47 termió de ordeñarse
+Vaca  72 se está ordeñando
+Vaca  55 termió de ordeñarse
+Vaca  75 se está ordeñando
+Vaca  53 termió de ordeñarse
+Vaca  76 se está ordeñando
+Vaca  37 sale del vacunatorio
+Vaca  60 entra al vacunatorio
+Vaca  46 termió de ordeñarse
+Vaca  85 se está ordeñando
+Vaca  61 sale del vacunatorio
+Vaca  64 entra al vacunatorio
+Vaca  36 termió de ordeñarse
+Vaca  86 se está ordeñando
+Vaca  45 termió de ordeñarse
+Vaca  95 se está ordeñando
+Vaca  71 termió de ordeñarse
+Vaca  97 se está ordeñando
+Vaca  42 termió de ordeñarse
+Vaca  93 se está ordeñando
+Vaca  39 sale del vacunatorio
+Vaca  66 entra al vacunatorio
+Vaca  49 sale del vacunatorio
+Vaca  68 entra al vacunatorio
+Vaca  93 termió de ordeñarse
+Vaca  96 se está ordeñando
+Vaca  65 termió de ordeñarse
+Vaca  99 se está ordeñando
+Vaca  67 termió de ordeñarse
+Vaca  4 se está ordeñando
+Vaca  60 sale del vacunatorio
+Vaca  73 entra al vacunatorio
+Vaca  54 termió de ordeñarse
+Vaca  7 se está ordeñando
+Vaca  59 termió de ordeñarse
+Vaca  12 se está ordeñando
+Vaca  72 termió de ordeñarse
+Vaca  15 se está ordeñando
+Vaca  64 sale del vacunatorio
+Vaca  74 entra al vacunatorio
+Vaca  97 termió de ordeñarse
+Vaca  13 se está ordeñando
+Vaca  57 termió de ordeñarse
+Vaca  3 se está ordeñando
+Vaca  62 termió de ordeñarse
+Vaca  9 se está ordeñando
+Vaca  63 sale del vacunatorio
+Vaca  77 entra al vacunatorio
+Vaca  74 sale del vacunatorio
+Vaca  78 entra al vacunatorio
+Vaca  68 sale del vacunatorio
+Vaca  79 entra al vacunatorio
+Vaca  70 termió de ordeñarse
+Vaca  32 se está ordeñando
+Vaca  66 sale del vacunatorio
+Vaca  80 entra al vacunatorio
+Vaca  79 sale del vacunatorio
+Vaca  81 entra al vacunatorio
+Vaca  86 termió de ordeñarse
+Vaca  10 se está ordeñando
+Vaca  73 sale del vacunatorio
+Vaca  82 entra al vacunatorio
+Vaca  9 termió de ordeñarse
+Vaca  20 se está ordeñando
+Vaca  9 entró al camion  1
+Vaca  4 termió de ordeñarse
+Vaca  28 se está ordeñando
+Vaca  4 entró al camion  1
+Vaca  20 termió de ordeñarse
+Vaca  24 se está ordeñando
+Vaca  20 entró al camion  1
+Vaca  76 termió de ordeñarse
+Vaca  35 se está ordeñando
+Vaca  75 termió de ordeñarse
+Vaca  41 se está ordeñando
+Vaca  95 termió de ordeñarse
+Vaca  33 se está ordeñando
+Vaca  77 sale del vacunatorio
+Vaca  83 entra al vacunatorio
+Vaca  85 termió de ordeñarse
+Vaca  52 se está ordeñando
+Vaca  80 sale del vacunatorio
+Vaca  84 entra al vacunatorio
+Vaca  28 termió de ordeñarse
+Vaca  51 se está ordeñando
+Vaca  28 entró al camion  1
+Vaca  12 termió de ordeñarse
+Vaca  56 se está ordeñando
+Vaca  12 entró al camion  1
+Vaca  84 sale del vacunatorio
+Vaca  87 entra al vacunatorio
+Vaca  99 termió de ordeñarse
+Vaca  37 se está ordeñando
+Vaca  15 termió de ordeñarse
+Vaca  61 se está ordeñando
+Vaca  15 entró al camion  1
+Vaca  87 sale del vacunatorio
+Vaca  88 entra al vacunatorio
+Vaca  82 sale del vacunatorio
+Vaca  90 entra al vacunatorio
+Vaca  10 termió de ordeñarse
+Vaca  39 se está ordeñando
+Vaca  10 entró al camion  1
+Vaca  52 termió de ordeñarse
+Vaca  49 se está ordeñando
+Vaca  52 entró al camion  1
+Vaca  35 termió de ordeñarse
+Vaca  60 se está ordeñando
+Vaca  35 entró al camion  1
+Vaca  3 termió de ordeñarse
+Vaca  64 se está ordeñando
+Vaca  3 entró al camion  1
+Vaca  83 sale del vacunatorio
+Vaca  89 entra al vacunatorio
+Vaca  56 termió de ordeñarse
+Vaca  63 se está ordeñando
+Vaca  56 entró al camion  1
+Vaca  78 sale del vacunatorio
+Vaca  92 entra al vacunatorio
+Vaca  96 termió de ordeñarse
+Vaca  74 se está ordeñando
+Vaca  7 termió de ordeñarse
+Vaca  68 se está ordeñando
+Vaca  7 entró al camion  1
+Vaca  61 termió de ordeñarse
+Vaca  66 se está ordeñando
+Vaca  61 entró al camion  1
+Vaca  68 termió de ordeñarse
+Vaca  79 se está ordeñando
+Vaca  68 entró al camion  1
+Vaca  33 termió de ordeñarse
+Vaca  73 se está ordeñando
+Vaca  33 entró al camion  1
+Vaca  92 sale del vacunatorio
+Vaca  91 entra al vacunatorio
+Vaca  81 sale del vacunatorio
+Vaca  98 entra al vacunatorio
+Vaca  79 termió de ordeñarse
+Vaca  77 se está ordeñando
+Vaca  79 entró al camion  1
+Vaca  13 termió de ordeñarse
+Vaca  80 se está ordeñando
+Vaca  13 entró al camion  1
+Vaca  32 termió de ordeñarse
+Vaca  84 se está ordeñando
+Vaca  32 entró al camion  1
+Vaca  74 termió de ordeñarse
+Vaca  87 se está ordeñando
+Vaca  74 entró al camion  1
+Vaca  88 sale del vacunatorio
+Vaca  94 entra al vacunatorio
+Vaca  39 termió de ordeñarse
+Vaca  82 se está ordeñando
+Vaca  39 entró al camion  1
+Vaca  77 termió de ordeñarse
+Vaca  83 se está ordeñando
+Vaca  77 entró al camion  1
+Vaca  84 termió de ordeñarse
+Vaca  78 se está ordeñando
+Vaca  84 entró al camion  1
+Vaca  63 termió de ordeñarse
+Vaca  92 se está ordeñando
+Vaca  63 entró al camion  1
+Vaca  66 termió de ordeñarse
+Vaca  81 se está ordeñando
+Vaca  66 entró al camion  1
+Vaca  90 sale del vacunatorio
+Vaca  23 entra al vacunatorio
+Vaca  82 termió de ordeñarse
+Vaca  88 se está ordeñando
+Vaca  82 entró al camion  1
+Vaca  92 termió de ordeñarse
+Vaca  90 se está ordeñando
+Vaca  92 entró al camion  1
+Vaca  89 sale del vacunatorio
+Vaca  22 entra al vacunatorio
+Vaca  91 sale del vacunatorio
+Vaca  25 entra al vacunatorio
+Vaca  51 termió de ordeñarse
+Vaca  89 se está ordeñando
+Vaca  51 entró al camion  1
+Vaca  87 termió de ordeñarse
+Vaca  91 se está ordeñando
+Vaca  87 entró al camion  1
+Vaca  94 sale del vacunatorio
+Vaca  6 entra al vacunatorio
+Vaca  23 sale del vacunatorio
+Vaca  14 entra al vacunatorio
+Vaca  23 entró al camion  1
+Vaca  41 termió de ordeñarse
+Vaca  94 se está ordeñando
+Vaca  41 entró al camion  1
+Vaca  24 termió de ordeñarse
+Vaca  24 entró al camion  1
+Vaca  25 sale del vacunatorio
+Vaca  100 entra al vacunatorio
+Vaca  25 entró al camion  1
+Vaca  22 sale del vacunatorio
+Vaca  11 entra al vacunatorio
+Vaca  22 entró al camion  1
+Vaca  98 sale del vacunatorio
+Vaca  16 entra al vacunatorio
+Vaca  98 se está ordeñando
+Vaca  49 termió de ordeñarse
+Vaca  49 entró al camion  1
+Vaca  37 termió de ordeñarse
+Vaca  37 entró al camion  1
+Vaca  81 termió de ordeñarse
+Vaca  81 entró al camion  1
+Vaca  6 sale del vacunatorio
+Vaca  2 entra al vacunatorio
+Vaca  6 entró al camion  1
+Vaca  64 termió de ordeñarse
+Vaca  64 entró al camion  1
+Vaca  80 termió de ordeñarse
+Vaca  80 entró al camion  1
+Vaca  100 sale del vacunatorio
+Vaca  18 entra al vacunatorio
+Vaca  100 entró al camion  1
+Vaca  94 termió de ordeñarse
+Vaca  94 entró al camion  1
+Vaca  11 sale del vacunatorio
+Vaca  31 entra al vacunatorio
+Vaca  11 entró al camion  1
+Vaca  91 termió de ordeñarse
+Vaca  91 entró al camion  1
+Vaca  60 termió de ordeñarse
+Vaca  60 entró al camion  1
+Vaca  73 termió de ordeñarse
+Vaca  73 entró al camion  1
+Vaca  16 sale del vacunatorio
+Vaca  17 entra al vacunatorio
+Vaca  16 entró al camion  1
+Vaca  83 termió de ordeñarse
+Vaca  83 entró al camion  1
+Vaca  2 sale del vacunatorio
+Vaca  21 entra al vacunatorio
+Vaca  2 entró al camion  1
+Vaca  17 sale del vacunatorio
+Vaca  26 entra al vacunatorio
+Vaca  17 entró al camion  1
+Vaca  18 sale del vacunatorio
+Vaca  1 entra al vacunatorio
+Vaca  18 entró al camion  1
+Vaca  90 termió de ordeñarse
+Vaca  90 entró al camion  2
+Vaca  89 termió de ordeñarse
+Vaca  14 sale del vacunatorio
+Vaca  5 entra al vacunatorio
+Vaca  89 entró al camion  2
+Vaca  78 termió de ordeñarse
+Vaca  14 entró al camion  2
+Vaca  78 entró al camion  2
+Vaca  5 sale del vacunatorio
+Vaca  27 entra al vacunatorio
+Vaca  5 entró al camion  2
+Vaca  21 sale del vacunatorio
+Vaca  29 entra al vacunatorio
+Vaca  27 sale del vacunatorio
+Vaca  48 entra al vacunatorio
+Vaca  21 entró al camion  2
+Vaca  27 entró al camion  2
+Vaca  88 termió de ordeñarse
+Vaca  31 sale del vacunatorio
+Vaca  50 entra al vacunatorio
+Vaca  88 entró al camion  2
+Vaca  31 entró al camion  2
+Vaca  26 sale del vacunatorio
+Vaca  8 entra al vacunatorio
+Vaca  26 entró al camion  2
+Vaca  98 termió de ordeñarse
+Vaca  50 sale del vacunatorio
+Vaca  38 entra al vacunatorio
+Vaca  8 sale del vacunatorio
+Vaca  19 entra al vacunatorio
+Vaca  29 sale del vacunatorio
+Vaca  30 entra al vacunatorio
+Vaca  98 entró al camion  2
+Vaca  50 entró al camion  2
+Vaca  8 entró al camion  2
+Vaca  29 entró al camion  2
+Vaca  1 sale del vacunatorio
+Vaca  44 entra al vacunatorio
+Vaca  30 sale del vacunatorio
+Vaca  58 entra al vacunatorio
+Vaca  1 entró al camion  2
+Vaca  48 sale del vacunatorio
+Vaca  43 entra al vacunatorio
+Vaca  30 entró al camion  2
+Vaca  48 entró al camion  2
+Vaca  38 sale del vacunatorio
+Vaca  34 entra al vacunatorio
+Vaca  38 entró al camion  2
+Vaca  19 sale del vacunatorio
+Vaca  40 entra al vacunatorio
+Vaca  19 entró al camion  2
+Vaca  43 sale del vacunatorio
+Vaca  69 entra al vacunatorio
+Vaca  43 entró al camion  2
+Vaca  44 sale del vacunatorio
+Vaca  47 entra al vacunatorio
+Vaca  44 entró al camion  2
+Vaca  58 sale del vacunatorio
+Vaca  55 entra al vacunatorio
+Vaca  58 entró al camion  2
+Vaca  69 sale del vacunatorio
+Vaca  53 entra al vacunatorio
+Vaca  34 sale del vacunatorio
+Vaca  46 entra al vacunatorio
+Vaca  40 sale del vacunatorio
+Vaca  36 entra al vacunatorio
+Vaca  69 entró al camion  2
+Vaca  34 entró al camion  2
+Vaca  40 entró al camion  2
+Vaca  53 sale del vacunatorio
+Vaca  45 entra al vacunatorio
+Vaca  55 sale del vacunatorio
+Vaca  71 entra al vacunatorio
+Vaca  53 entró al camion  2
+Vaca  55 entró al camion  2
+Vaca  47 sale del vacunatorio
+Vaca  42 entra al vacunatorio
+Vaca  47 entró al camion  2
+Vaca  36 sale del vacunatorio
+Vaca  93 entra al vacunatorio
+Vaca  36 entró al camion  2
+Vaca  46 sale del vacunatorio
+Vaca  65 entra al vacunatorio
+Vaca  71 sale del vacunatorio
+Vaca  67 entra al vacunatorio
+Vaca  46 entró al camion  2
+Vaca  71 entró al camion  2
+Vaca  67 sale del vacunatorio
+Vaca  54 entra al vacunatorio
+Vaca  67 entró al camion  2
+Vaca  42 sale del vacunatorio
+Vaca  59 entra al vacunatorio
+Vaca  42 entró al camion  2
+Vaca  59 sale del vacunatorio
+Vaca  72 entra al vacunatorio
+Vaca  45 sale del vacunatorio
+Vaca  97 entra al vacunatorio
+Vaca  59 entró al camion  2
+Vaca  45 entró al camion  2
+Vaca  97 sale del vacunatorio
+Vaca  57 entra al vacunatorio
+Vaca  97 entró al camion  2
+Vaca  72 sale del vacunatorio
+Vaca  62 entra al vacunatorio
+Vaca  72 entró al camion  2
+Vaca  93 sale del vacunatorio
+Vaca  70 entra al vacunatorio
+Vaca  93 entró al camion  2
+Vaca  57 sale del vacunatorio
+Vaca  86 entra al vacunatorio
+Vaca  65 sale del vacunatorio
+Vaca  76 entra al vacunatorio
+Vaca  57 entró al camion  2
+Vaca  65 entró al camion  2
+Vaca  54 sale del vacunatorio
+Vaca  75 entra al vacunatorio
+Vaca  76 sale del vacunatorio
+Vaca  95 entra al vacunatorio
+Vaca  54 entró al camion  2
+Vaca  76 entró al camion  2
+Vaca  75 sale del vacunatorio
+Vaca  85 entra al vacunatorio
+Vaca  62 sale del vacunatorio
+Vaca  99 entra al vacunatorio
+Vaca  75 entró al camion  2
+Vaca  62 entró al camion  2
+Vaca  99 sale del vacunatorio
+Vaca  96 entra al vacunatorio
+Vaca  99 entró al camion  2
+Vaca  96 sale del vacunatorio
+Vaca  96 entró al camion  2
+Vaca  70 sale del vacunatorio
+Vaca  70 entró al camion  2
+Vaca  86 sale del vacunatorio
+Vaca  86 entró al camion  2
+Vaca  95 sale del vacunatorio
+Vaca  95 entró al camion  2
+Vaca  85 sale del vacunatorio
+Vaca  85 entró al camion  2
